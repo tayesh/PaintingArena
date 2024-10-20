@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Emily Johnson",
+    "rating": 4.5,
+    "reviews": "I recently purchased a beautiful landscape painting from this site. The colors are vibrant, and the details are exquisite. It adds so much character to my living room!",
+    "picture": "https://i.ibb.co/71zw1rD/confident-smiling-businesswoman-writing-notes.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Michael Smith",
+    "rating": 5.0,
+    "reviews": "I'm absolutely thrilled with the oil portrait I bought from this site. The artist perfectly captured the essence of the subject. It's truly a masterpiece!",
+    "picture": "https://i.ibb.co/df5DBgH/serious-readhead-bearded-man-white-tshirt-holding-folder-pen-171337-7855.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sarah Williams",
+    "rating": 4.8,
+    "reviews": "I purchased a watercolor painting of my favorite animal from this site, and I couldn't be happier with it. The colors are so vibrant, and it looks even better in person!",
+    "picture": "https://i.ibb.co/28B6hdJ/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction-176420-1518.jpg"
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "rating": 5.0,
+    "reviews": "I recently bought an abstract painting for my office, and it's received so many compliments already. The colors are perfect, and it adds a touch of sophistication to the space.",
+    "picture": "https://i.ibb.co/s5Zy779/successful-old-businessman-suit-glasses-looking-confident-176420-31742.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Emma Martinez",
+    "rating": 4.5,
+    "reviews": "I ordered a charcoal sketch from this site, and it exceeded my expectations. The attention to detail is remarkable, and it looks stunning framed on my wall.",
+    "picture": "https://i.ibb.co/b3x56yC/young-woman-writing-her-journal.jpg"
+  },
+  {
+    "id": 6,
+    "name": "John Davis",
+    "rating": 5.0,
+    "reviews": "I purchased a cartoon drawing for my child's room, and it's become their favorite piece of art. The colors are so vibrant, and the design is whimsical.",
+    "picture": "https://i.ibb.co/rcRDdtQ/thoughtful-businessman-sitting-office-desk-writing-trying-think-up-idea-squinting-as-pondering-new-c.jpg"
+  }
+]
